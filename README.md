@@ -1,5 +1,5 @@
 # Hi there, I'm Michael Nyambura 👋
-## I'm Passionate about Fullstack / Frontend Development & UI/UX Designer 💻❤️
+## I'm Passionate about Fullstack / Frontend Development & UI/UX Design 💻❤️
 * 📘 I’m currently Learning at Maseno University
 * 💻 I’m currently studying Bachelor of Science in Information Technology
 * 😍 I’m looking to Collaborate with other developers & knowledge sharing
